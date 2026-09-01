@@ -1,0 +1,11 @@
+Essentials Unveiled: Metadata Extraction Simplified
+Article Metadata Extraction
+TLDR This, the online article summarizer tool, not only condenses lengthy articles into shorter, digestible content, but it also automatically extracts essential metadata such as author and date information, related images, and the title. Additionally, it estimates the reading time for news articles and blog posts, ensuring you have all the necessary information consolidated in one place for efficient reading.
+
+Automated author-date extraction
+Related images consolidation
+Instant reading time estimation
+
+Pure Focus, No Fuss: Your Ad-Free Reading Haven
+Distraction and ad-free reading
+As an efficient article summarizer tool, TLDR This meticulously eliminates ads, popups, graphics, and other online distractions, providing you with a clean, uncluttered reading experience. Moreover, it enhances your focus and comprehension by presenting the essential content in a concise and straightforward manner, thus transforming the way you consume information online.
